@@ -1,10 +1,5 @@
 # ImageHub
 
-<p align="center">
-  <img src="http://res.cloudinary.com/dyhtnkitj/image/upload/v1709056165/ImageHubProjectDB/user_1/original_images/ttu63ajzijfgp7ydjinm.jpg"
-  alt="ImageHub" width="256" height="256">
-</p>
-
 ---
 
 ImageHub is a REST API application implemented using the FastAPI framework.
